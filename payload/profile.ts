@@ -11,13 +11,13 @@ const profile: IProfile.Payload = {
   // image: 'https://resume.yowu.dev/static/image/profile_2019.png',
   image,
   name: {
-    title: 'Tux Linux Penguin',
-    small: '(Tux)',
+    title: '황대연의 페이지',
+    small: '안녕하세요',
   },
   contact: [
     {
-      title: 'tux@linux.org',
-      link: 'mailto:tux@linux.org',
+      title: '2288003@pcu.ac.kr',
+      link: '2288003@pcu.ac.kr',
       icon: faEnvelope,
     },
     {
@@ -26,11 +26,11 @@ const profile: IProfile.Payload = {
       badge: true,
     },
     {
-      link: 'https://github.com/uyu423/resume-nextjs',
+      link: 'https://Gooongback.github.io/resume-nextjs/',
       icon: faGithub,
     },
     {
-      link: 'https://www.facebook.com/groups/ubuntu.ko',
+      link: 'not us face book',
       icon: faFacebook,
     },
   ],
